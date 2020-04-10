@@ -1,6 +1,6 @@
 import random
 
-#
+# Add Hanping comments 
 # Blackjack game
 #
 # From Tim Buchalka's Learn Python course
